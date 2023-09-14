@@ -1,0 +1,10 @@
+Tempo total do UDP: 1.004638671875ms
+Tempo total do TCP: 0.0ms
+Tempo total do UDP: 0.0ms
+Tempo total do TCP: 1.0146484375ms
+Tempo total do UDP: 0.97998046875ms
+Tempo total do TCP: 1.00341796875ms
+Tempo total do UDP: 0.9912109375ms
+Tempo total do TCP: 0.99609375ms
+Tempo total do UDP: 0.997314453125ms
+Tempo total do TCP: 0.998779296875ms
