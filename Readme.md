@@ -1,6 +1,7 @@
 # Procurador de pokemon
-
 O serviço simples de busca, o cliente coloca o tipo de pokemon e o servidor retorna pokemons desse tipo. O tipo de protocolo não influenciou significamente o tempo total de sessão, não há um determinante visível que implica no tempo da sessão, sendo bem "aleatório" o tempo que será.
+
+Alunos: Gabriel Marvin e Pedro Novaes
 
 ## Como rodar
 Abra 4 instancias do terminal de comando para o seguintes arquivos:
