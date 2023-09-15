@@ -10,18 +10,38 @@ Abra 4 instancias do terminal de comando para o seguintes arquivos:
 ```
 
 ## Organização do projeto
-### main_py -> Script chefe que roda os clients udp e tcp
+```py
+main_py  # Script chefe que roda os clientes udp e tcp
+```
 
 ### UDP
-### udp_server.py
-### udp_client.py
+```py
+udp_server.py
+udp_client.py
+```
 
 ### TCP
-### tcp_server.py
-### tcp_client.py
-
+```py
+tcp_server.py
+tcp_client.py
+```
 ### DNS
-### dns.py
+```py
+dns.py # servidor de nomes básico
+```
+
+### Utilitários
+```py
+writetime.py # Fornece funções para escrever e limpar timecapture.txt
+costants.py # Informações estáticas como endereços e portas dos hosts
+database.py # Dados da aplicação
+```
+
+## Captura dos pacotes
+<a href="/capture.pcapng"> link do pacote</a>
+
+
+
 
 
 
