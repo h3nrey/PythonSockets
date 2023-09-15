@@ -41,6 +41,11 @@ database.py # Dados da aplicação
 
 ## Captura dos pacotes
 <a href="/capture.pcapng"> link da captura de pacotes</a>
+![capture1](https://github.com/h3nrey/PythonSockets/assets/56360819/a73437fb-5696-4ab1-8e35-8a6d8563cdd8)
+![capture2](https://github.com/h3nrey/PythonSockets/assets/56360819/58bf0956-85da-49a5-95bd-07084e19e887)
+![capture3](https://github.com/h3nrey/PythonSockets/assets/56360819/e748f339-b036-4174-995f-b41af3caeead)
+
+
 
 
 
